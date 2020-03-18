@@ -13,8 +13,8 @@ None
 Role Variables
 --------------
 
-manager_port: the port where the swarm-manager listens on (default: 2377)
-network_interface: name of network interface used (if not specified the init process will take the default one)
+- manager_port: the port where the swarm-manager listens on (default: 2377)
+- network_interface: name of network interface used (if not specified the init process will take the default one)
 
 Dependencies
 ------------
