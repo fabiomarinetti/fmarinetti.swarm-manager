@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/fabiomarinetti/fmarinetti.swarm-manager.svg?branch=master)](https://travis-ci.com/fabiomarinetti/fmarinetti.swarm-manager)
+
 Role Name:
 =========
 
