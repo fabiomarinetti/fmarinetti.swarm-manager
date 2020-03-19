@@ -1,9 +1,7 @@
 [![Build Status](https://travis-ci.com/fabiomarinetti/fmarinetti.swarm-manager.svg?branch=master)](https://travis-ci.com/fabiomarinetti/fmarinetti.swarm-manager)
 
-Role Name:
-=========
-
 fmarinetti.swarm-manager
+=========
 
 This role configure a secure swarm master. The roles print out the swarm command  for joining slaves.
 
